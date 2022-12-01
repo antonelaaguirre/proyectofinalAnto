@@ -1,0 +1,9 @@
+body {background-color: yellow;}
+
+.imgtablero {display: flex;
+           justify-content: space-around;
+           }
+
+.imgt {border: 3px solid black;}
+
+.imgt:hover {width: 450px;}
